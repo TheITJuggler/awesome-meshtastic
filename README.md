@@ -23,6 +23,7 @@
   - [Virtual](#virtual)
   - [Australia](#australia)
     - [Australian Capital Territory](#australian-capital-territory)
+    - [Sydney](#sydney)
     - [Tasmania](#tasmania)
   - [Canada](#canada)
     - [Alberta](#alberta)
@@ -164,10 +165,12 @@ For online communities, forums and gathering places, that are not nessisarily ge
 - [Meshtastic User Group on LinkedIn](https://www.linkedin.com/groups/14499139/)
 
 ### Australia
+- [Australia Meshtastic (Facebook)](https://www.facebook.com/groups/1169993994163108)
 **[`^        back to top        ^`](#awesome-meshtastic)**
-
 #### Australian Capital Territory
 - [Canberra Meshtastic Community (Discord)](https://discord.gg/4QgFsuaC3Z)
+#### Sydney
+- [Sydney Meshtastic Community (Facebook)](https://www.facebook.com/groups/1041534027106861)
 #### Tasmania
 - [Meshtastic User Group Tasmania (Facebook)](https://www.facebook.com/groups/1556630645195649)
 
